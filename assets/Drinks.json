@@ -1,0 +1,24 @@
+[
+        {
+            "id": 10,
+            "title": "Sūrio pyrago pieno kokteilis su uogomis (natūraliai saldus)",
+            "description": "Sūrio pyragas ir pieno kokteilis vienoje stiklinėje - tobulas desertas visiems smaližiams! Mes ruošėme su avietėmis, bet labai skanu ir su kitokiomis uogomis ar vaisiais.",
+            "ingredients": "INGREDIENTAI: PORCIJŲ SKAIČIUS: 2 200 mililitrų pieno 150 gramų aviečių (ar kitokių uogų, tinka ir šaldytos) 100 gramų maskarponės sūrio (arba tepamo kreminio sūrelio) 0.5 vieneto bananų (arba pagal skonį medaus ar klevų sirupo)",
+            "howto": "PARUOŠIMO BŪDAS: PARUOŠIMO LAIKAS: APIE 5 MIN. 1. Į kokteilių plaktuvą sudėti maskarponės sūrį, bananą, avietes, supilti pieną. 2. Viską sutrinti iki vientisumo. Galima trinti ir elektriniu trintuvu (blenderiu). 3. Išpilstyti į stiklines ir mėgautis! Galima papuošti plakta grietinėle."
+            
+        },
+        {
+            "id": 11,
+            "title": "Kremiškas braškių ir mangų kokteilis",
+            "description": "Šis kokteilis yra mano pats mėgstamiausias. Puikiai tika ir kaip sveikesnis desertas, ir kaip greiti be galo gardūs pusryčiai.",
+            "ingredients": "INGREDIENTAI: PORCIJŲ SKAIČIUS: 2 1 vienetas mango vaisiaus (gerai prinokusio) 200 gramų braškių 200 mililitrų kokosų pieno (pilno riebumo)",
+            "howto": "PARUOŠIMO BŪDAS: PARUOŠIMO LAIKAS: APIE 5 MIN. 1. Mangą švariai nuplaukite, nulupkite, išimkite kaulą, o minkštimą perpjaukite į kelias dalis. 2. Braškes nuplaukite ir nuskabykite uodegėles. 3. Mangą ir braškes sudėkite į elektrinį trintuvą, supilkite kokosų pieną. Sutrinkite iki vientisos, glotnios konsistencijos. 4. Pilkite į taures ir skanaukite!"
+        },
+        {
+            "id": 12,
+            "title": "Naminis limonadas su uogomis ir mėtomis",
+            "description": "Gaivus limonadas su uogomis ir mėtomis. Puikiai atgaivins! Rima, Wise Taste",
+            "ingredients": "INGREDIENTAI: PORCIJŲ SKAIČIUS: 2 100 gramų šaldytų uogų 1 stiklinė vandens (šalto) 1 stiklinė gazuoto vandens 1/3 stiklinės citrinų sulčių 1/4 stiklinės klevų sirupo (arba medaus) 8 lapeliai mėtų",
+            "howto": "PARUOŠIMO BŪDAS: PARUOŠIMO LAIKAS: APIE 10 MIN. 1. 1 stiklinę vandens sumaišykite su klevų sirupu ir palikite 5 minutės pastovėti. 2. Į ąsotį supilkite citrinos sultis, gazuotą vandenį, vandenį su klevų sirupu. Sudėkite uogas, mėtos lapelius ir išmaišykite. 3. Tiekite su ledo kubeliais ir citrinos griežinėliu."
+        }
+    ]
